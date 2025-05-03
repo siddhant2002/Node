@@ -4,7 +4,7 @@ var i = 10;
 
 var j = 20;
 
-console.log(name);
+console.log(name); 
 
 console.log(i + j);
 

@@ -9,6 +9,6 @@ const b = 20;
 
 // const x = 5;
 
-// console.log(x);
+// console.log(x); 
 
 sumCalculate(a,b);
